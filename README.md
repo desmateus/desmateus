@@ -35,6 +35,9 @@
 </p>
 <h2 align="center">📫 Contato</h2>
 <p align="center">
+  <a href="https://www.instagram.com/desmateus">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff9d"/>
+  </a>
   <a href="https://www.linkedin.com/in/mateus-mendes-b95564263/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9d"/>
   </a>
